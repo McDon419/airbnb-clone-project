@@ -81,4 +81,28 @@ Understanding the design properties such as color styles and typography ensures 
 
 ---
 
+## UI Component Patterns
+
+### Planned Components
+
+- **Navbar**
+  - Logo
+  - Search bar
+  - User navigation (Login/Profile)
+  - Responsive menu
+- **Property Card**
+  - Property image
+  - Basic details (price, location, rating)
+  - Favorite button
+  - Responsive layout
+- **Footer**
+  - Site links
+  - Company information
+  - Social media links
+  - Copyright
+
+All components will be created with **reusability and consistency** in mind, following a **component-based architecture**.
+
+---
+
 
