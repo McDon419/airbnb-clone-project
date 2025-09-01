@@ -41,5 +41,29 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ---
 
+## More UI/UX Design Planning
+
+### Color Styles
+
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+### Typography
+
+- **Primary Font:** Circular
+  - Medium (500) – 16px
+- **Headings:**
+  - Bold (700) – 24px to 32px
+- **Secondary Text:**
+  - Book (400) – 14px
+
+### Importance of Identifying Design Properties
+
+Understanding the design properties such as color styles and typography ensures consistency throughout the application and helps developers align with the intended UI/UX vision. It also speeds up the implementation process and maintains visual integrity during iterations.
+
+---
 
 
